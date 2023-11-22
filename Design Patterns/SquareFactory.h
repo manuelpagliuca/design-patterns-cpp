@@ -4,5 +4,8 @@
 
 class SquareFactory : public AbstractFactory {
 public:
-    Shape* createShape() override;
+    Shape* createShape() override
+    {
+        return new Square();
+    }
 };

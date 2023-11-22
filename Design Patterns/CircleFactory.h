@@ -4,5 +4,8 @@
 
 class CircleFactory : public AbstractFactory {
 public:
-    Shape* createShape() override;
+    Shape* createShape() override
+    {
+        return new Circle();
+    }
 };

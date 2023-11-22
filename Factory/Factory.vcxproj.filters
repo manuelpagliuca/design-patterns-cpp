@@ -15,28 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shape.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-    <ClInclude Include="Circle.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-    <ClInclude Include="Square.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-    <ClInclude Include="AbstractFactory.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-    <ClInclude Include="CircleFactory.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-    <ClInclude Include="SquareFactory.h">
-      <Filter>File di origine</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Client.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Product.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ConcreteProductA.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ConcreteProductB.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Creator.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ConcreteCreator.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
