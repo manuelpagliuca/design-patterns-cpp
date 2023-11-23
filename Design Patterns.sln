@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Facade", "Facade\Facade.vcxproj", "{550B6F52-B94D-4B41-974C-6926CD3A9FBE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight", "Flyweight\Flyweight.vcxproj", "{D81A6FA9-8A23-4975-B209-D16C50A18382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{550B6F52-B94D-4B41-974C-6926CD3A9FBE}.Release|x64.Build.0 = Release|x64
 		{550B6F52-B94D-4B41-974C-6926CD3A9FBE}.Release|x86.ActiveCfg = Release|Win32
 		{550B6F52-B94D-4B41-974C-6926CD3A9FBE}.Release|x86.Build.0 = Release|Win32
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Debug|x64.ActiveCfg = Debug|x64
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Debug|x64.Build.0 = Debug|x64
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Debug|x86.ActiveCfg = Debug|Win32
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Debug|x86.Build.0 = Debug|Win32
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Release|x64.ActiveCfg = Release|x64
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Release|x64.Build.0 = Release|x64
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Release|x86.ActiveCfg = Release|Win32
+		{D81A6FA9-8A23-4975-B209-D16C50A18382}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
