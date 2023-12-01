@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memento", "Memento\Memento.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer", "Observer\Observer.vcxproj", "{7672E2E2-3966-4128-B1FC-30D053463975}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State", "State\State.vcxproj", "{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -265,6 +267,18 @@ Global
 		{7672E2E2-3966-4128-B1FC-30D053463975}.Release|x64.Build.0 = Release|x64
 		{7672E2E2-3966-4128-B1FC-30D053463975}.Release|x86.ActiveCfg = Release|Win32
 		{7672E2E2-3966-4128-B1FC-30D053463975}.Release|x86.Build.0 = Release|Win32
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|ARM64.Build.0 = Debug|ARM64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|x64.ActiveCfg = Debug|x64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|x64.Build.0 = Debug|x64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Debug|x86.Build.0 = Debug|Win32
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|ARM64.ActiveCfg = Release|ARM64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|ARM64.Build.0 = Release|ARM64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|x64.ActiveCfg = Release|x64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|x64.Build.0 = Release|x64
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|x86.ActiveCfg = Release|Win32
+		{B0E0A8F6-1E3D-4DE6-B016-DD9E3C8222D4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
