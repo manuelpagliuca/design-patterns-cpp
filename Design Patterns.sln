@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Iterator", "Iterator\Iterat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mediator", "Mediator\Mediator.vcxproj", "{96EEFF8D-59C6-4887-A3D0-829428285E41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memento", "Memento\Memento.vcxproj", "{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -237,6 +239,18 @@ Global
 		{96EEFF8D-59C6-4887-A3D0-829428285E41}.Release|x64.Build.0 = Release|x64
 		{96EEFF8D-59C6-4887-A3D0-829428285E41}.Release|x86.ActiveCfg = Release|Win32
 		{96EEFF8D-59C6-4887-A3D0-829428285E41}.Release|x86.Build.0 = Release|Win32
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|ARM64.Build.0 = Debug|ARM64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|x64.ActiveCfg = Debug|x64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|x64.Build.0 = Debug|x64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Debug|x86.Build.0 = Debug|Win32
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|ARM64.ActiveCfg = Release|ARM64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|ARM64.Build.0 = Release|ARM64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|x64.ActiveCfg = Release|x64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|x64.Build.0 = Release|x64
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|x86.ActiveCfg = Release|Win32
+		{9C19F2F4-6A6A-4536-AA33-17F9D3C266CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
